@@ -1,0 +1,28 @@
+h1
+{
+    text-align: center;
+    color: aquamarine;
+}
+
+#users{
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#users td, #users th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+#users tr:nth-child(even){background-color: azure;}
+
+#users tr:hover{background-color: #dddddd;}
+
+#users th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: aquamarine;
+    color: white;
+}

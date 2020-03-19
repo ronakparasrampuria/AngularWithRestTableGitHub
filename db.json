@@ -1,0 +1,22 @@
+{
+"Users":[
+{
+"id":1,
+"FirstName" : "Ronak",
+"LastName" : "Parasrampuria",
+"Phonenumber" : 1231321
+ },
+{
+"id":2,
+"FirstName" : "Nikhil",
+"LastName" : "Belwate",
+"Phonenumber" : 121321
+ },
+{
+"id":3,
+"FirstName" : "Rahul",
+"LastName" : "Makharia",
+"Phonenumber" : 1321321
+ }
+]
+}

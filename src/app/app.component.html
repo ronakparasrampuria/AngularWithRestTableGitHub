@@ -1,0 +1,15 @@
+<h1>Table Using JSON SERVER API</h1>
+<hr>
+<table id = "users">
+<tr>
+  <th *ngFor="let col of columns">
+    {{col}}
+  </th>
+</tr>
+<tr *ngFor = "let user of users">
+  <td *ngFor = "let indexObj of index">
+    {{user[indexObj]}}
+  </td>
+</tr>
+
+</table>
